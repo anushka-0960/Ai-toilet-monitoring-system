@@ -1,0 +1,17 @@
+# Credentials — never commit
+serviceAccountKey.json
+*.joblib
+__pycache__/
+.env
+
+# Python
+*.pyc
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
